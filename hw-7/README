@@ -1,0 +1,9 @@
+Вроде бы, то что нужно по условию, или нет?
+
+
+                ┌ Trapezoid
+                │               ┌ Quad
+      ┌ Polygon ├ Parallelogram ┤
+      │         │               └ Rectangle
+Shape ┤         └ Triangle
+      └ Circle
