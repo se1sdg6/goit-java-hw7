@@ -13,6 +13,6 @@ public abstract class Shape {
 
     @Override
     public String toString() {
-        return name;
+        return this.getClass().getSimpleName() + ": " + name;
     }
 }
